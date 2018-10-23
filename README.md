@@ -1,11 +1,11 @@
 # pynq hands-on demos
-Enumeration of serveral hands-on demos on PYNQ-Z2
+PYNQ-Z2快速上手demo集锦，清单如下所示
 
 - ComputerVision
 - DeepLearning
 - InternetOfThings
 
-## Install
-Download zip file of this repo and copy it to your board.
+## 安装
+下载整个项目的压缩包([链接](https://github.com/xupsh/pynq-hands-on-demos/archive/master.zip))，并将它复制（可以通过网络、离线等多种方式）到你的板子上。
 
-You can find install guide (for offline) in each directory.
+每个文件夹中都有单独的使用指南（离线）。
